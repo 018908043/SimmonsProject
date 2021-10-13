@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	padding:0;
+	margin:0;
+}
+
+img{
+    position: absolute;
+}
+.placement{
+	position: absolute
+}
+
+.trash:hover{
+	opacity:1;
+}
+
+
+.coat:hover{
+	opacity:1;
+}
+
+
+.file:hover{
+	opacity:1;
+}
+
+.phone:hover{
+	opacity:1;
+}

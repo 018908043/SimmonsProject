@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+	padding: 0;
+	margin: 0;
+}
+
+img{position: absolute}
+
+.placement{
+	position: absolute;
+	left:0px;
+}
+
+.title{
+position:absolute;
+  opacity: 0;
+}
+
+.title:hover{
+	opacity: 1
+}
